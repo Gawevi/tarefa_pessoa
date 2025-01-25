@@ -1,6 +1,6 @@
 package br.com.gal;
 
-public class PessoaJurídica {
+public class PessoaJurídica extends Pessoa {
 	private long cnpj;
 	
 	private String razao;
